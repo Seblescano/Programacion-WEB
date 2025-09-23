@@ -1,0 +1,19 @@
+Javascript es el lenguaje de la web
+
+-Javascript es un lenguaje que queda escrito como tal y lo va a entender como viene.
+- Nos manejamos con eventos?
+
+-El navegador lee el html de arriba para abajo, por orden de ejecucion el js iria dentro
+ del BODY (primero tengo que mostrar la pagina, cualquier tipo de script se pone al final del BODY)
+
+- Todo error me va a salir en la consola.
+
+- A diferencia de JAVA no hace falta definir las variables por ejemplo String nombre != let nombre
+
+Javascript w3school
+
+- Si tengo una const igual en otro archivo me salta error, ya que TODO SE COMPARTE.
+
+que es scope
+
+- Se puede debugear desde la consola, marcando el breakpoint
